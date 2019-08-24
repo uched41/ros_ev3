@@ -1,0 +1,2 @@
+lego_smart_env
+-DCATKIN_DEVEL_PREFIX=/home/robot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robot/catkin_ws/install -G Unix Makefiles
